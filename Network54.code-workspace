@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Network54",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../Desktop/WebDevProjects/Network 54/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Network54"
+	}
+}
